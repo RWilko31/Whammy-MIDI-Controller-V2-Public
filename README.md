@@ -97,7 +97,7 @@ The function buttons allow the user to easily start/stop the sequencer with a fo
 A jack has been added to allow the start/stop button to use a footswitch, however a TRS jack is required to allow the extended functionality of the other 3 buttons and so has not yet been implemented. A space for this is present in the case and so will be wired in when possible.
 
 
-![image](https://github.com/RWilko31/Whammy-MIDI-Controller-V2/blob/V2.3/Pictures/MidiController%20w_case%20side.jpg)
+![image](https://github.com/RWilko31/Whammy-MIDI-Controller-V2-Public/blob/main/Pictures/MidiController%20w_case%20side.jpg)
 
 These buttons use a resistor to set the voltage produced when pressed allowing all buttons to function from a single analog input on the arduino. This allows further buttons to be potentially added if the voltages are provided, however due to limitations in program size this can not yet be added. Eventually the button resistance will be specified in the save file on the sd card allowing the user to program in any additional buttons.
 
