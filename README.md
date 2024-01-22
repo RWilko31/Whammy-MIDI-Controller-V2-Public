@@ -1,6 +1,8 @@
-# Whammy-MIDI-Controller-V2.3
-
+# Whammy-MIDI-Controller-V2.3 (Public)
 A programmable controller for the Digitech whammy using Arduino with a touchscreen interface
+
+The code for this project is being kept private but can be shown by request. 
+Email: robert.wilkinson1@tiscali.co.uk
 
 ## Updates:
 - Multiple save files and a config file.
