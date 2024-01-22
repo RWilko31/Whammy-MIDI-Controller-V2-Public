@@ -18,7 +18,7 @@ Email: robert.wilkinson1@tiscali.co.uk
 The ability to load presets during run time has now been added.
 This allows the user to have multiple presets saved to the SD card which can be swapped out with the load menu.
 
-https://github.com/RWilko31/Whammy-MIDI-Controller-V2/assets/92086002/5e81e842-1c03-480f-a094-79ac1b673126
+https://github.com/RWilko31/Whammy-MIDI-Controller-V2-Public/assets/92086002/0396e549-9aed-4075-b3ef-58a9cdef1f68
 
 Menu options:
 - Load: loads the current preset (The selected preset can be changed with the < > buttons)
@@ -79,7 +79,7 @@ An example preset can be found here:
 
 ## Demo:
 
-https://github.com/RWilko31/Whammy-MIDI-Controller-V2/assets/92086002/0300b552-f534-40fb-8c4b-cd9e725e9ace
+https://github.com/RWilko31/Whammy-MIDI-Controller-V2-Public/assets/92086002/9c42f462-629a-41e4-9c54-e820b0a7bfd4
 
 ## Background
 The Digitech whammy is a pitch shifting pedal allowing its audio input to be shifted up or down. The pedal features a MIDI port that allows the pedal to be controlled external providing the ability to change its settings with a sequencer providing more possibilites than normal.
