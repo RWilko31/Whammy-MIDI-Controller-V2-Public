@@ -11,7 +11,7 @@ Email: robert.wilkinson1@tiscali.co.uk
 - Plan to add a TRS jack for a second footswicth for the other button functionality. This will also include start/stop to prevent need for 2 footswitches.
 - More code optimisations to reduce program size to fit on the arduino uno with the additional features (More required as this is still at 98-99%!)
 
-![20231020_150332](https://github.com/RWilko31/Whammy-MIDI-Controller-V2/blob/V2.3/Pictures/MidiController%20w_case.jpg)
+![20231020_150332](https://github.com/RWilko31/Whammy-MIDI-Controller-V2-Public/blob/main/Pictures/MidiController%20w_case.jpg)
 
 ## Load presets:
 
@@ -111,8 +111,8 @@ These buttons use a resistor to set the voltage produced when pressed allowing a
 
 - MIDI port
   
-![image](https://github.com/RWilko31/Whammy-MIDI-Controller-V2/blob/V2/Pictures/Schematic2.PNG)
+![image](https://github.com/RWilko31/Whammy-MIDI-Controller-V2-Public/blob/main/Pictures/Schematic2.PNG)
 
 - Buttons
   
-![20231020_150332](https://github.com/RWilko31/Whammy-MIDI-Controller-V2/blob/V2.2/Pictures/Schematic3.PNG)
+![20231020_150332](https://github.com/RWilko31/Whammy-MIDI-Controller-V2-Public/blob/main/Pictures/Schematic3.PNG)
